@@ -1,0 +1,18 @@
+{
+"作者":"小盒酷玩",
+"站名":"酷玩专用",
+"二次截取": "class=\"content-body\"&&class=\"content-lift\"",
+"数组": "<a&&</a>",
+"图片": "src=\"&&\"",
+"标题": "class=\"card-title\">&&</p>",
+"副标题": "class=\"item-speed\">&&</p>",
+"链接": "href=\"&&\"",
+"播放数组": "<div class=\"share-item-copy\">&&</div>",
+"播放链接": "href=\"&&\"+/folder/6537bfc17de527d25fd04d61b246cc8b6a5496b1",
+
+//"播放链接":"href=\"&&\"",
+"嗅探词": "hls.syrme.top#aliyundrive.net#cn-beijing-data.aliyundrive.net#alicloudccp.com#srcurity-token",
+"搜索url": "https://app.syrme.top/video/search?q={wd}",
+"分类": "国产$国产#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
+"分类url": "https://jiohub.top/video/{cateId}?page={catePg}&size=18"
+}

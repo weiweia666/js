@@ -1,0 +1,24 @@
+    {
+    
+    "作者":"荷城茶秀",
+    
+    "站名":"干饭影视",
+    //"发布页":"https://gfys.top/",
+    "主页url":"https://gfvod.com/",
+    
+    "简介":"<p class=\"col-pd\"&&干饭影视不参与",
+    
+    "影片类型":"类型：&&</span>",
+    
+    "数组":"ewave-vodlist__thumb lazyload\"&&</div>",
+    
+    "线路数组":"data-toggle=&&</li>",
+    
+    "线路标题":"tab\">&&</a>",
+   // "跳转播放链接数组":"<div class=\"ewave-player__video embed-responsive embed-responsive-16by9 clearfix\">&&</script>",
+    //"跳转播放链接":"https://player.gfvod.com/m3u8.php?url=+\"url\"*\"&&\"",
+    //"二次跳转播放链接":"https://player.gfvod.com/API.php;post;url=+\"url\"*\"&&\"",
+    //"三次跳转播放链接":"\"url\"*\"&&\"",
+    "分类url":" https://gfvod.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html;;akm0",
+    "嗅探词":".mp4?#fileV2?fid#.m3u8?#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$20"}

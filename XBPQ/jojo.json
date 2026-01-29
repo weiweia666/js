@@ -1,0 +1,70 @@
+{
+"站名":"骚火影视",
+//"主页url":"https://jiohub.top/",
+//"host":"hls.syrme.top",
+"头部集合":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36#Host$pan.syrme.top##Origin$https://jiohub.top",
+"二次截取":"data\": [&&]",
+"数组":"{&&}",
+"图片":"image\": \"&&\"",
+"标题":"title\": \"&&\"",
+"链接":"https://pan.syrme.top/v1/api/video/jojo/id?id=+ID\": &&,",
+"副标题":"item-speed\">&&</p>",
+//"线路二次截取":"<ul class=\"from_list\">&&</ul>",
+//"线路数组":"<li&&/li>",
+//"线路标题":">&&<",
+"播放数组":"<div class=\"tabs-plyr-list\">&&</div>",
+"状态":"更新时间：&&</p>",
+"导演":"导演：&&</p>",
+"主演":"主演：&&</p>",
+"简介":"detail-sketch hide\">&&</span>",
+"播放列表":"<a&&/a>",
+"播放标题":">&&<",
+"播放链接":"href=\"&&\"",
+"搜索url":"https://shdy3.com/search.php?searchword={wd}&limit=500",
+"搜索模式":"1",
+"搜索二次截取":"<ul class=\"show-list\"&&id=\"pages\">",
+"搜索数组":"<li>&&</a>",
+"搜索图片":"src=\"&&\"",
+"搜索标题":"alt=\"&&\"",
+"搜索链接":"href=\"&&\"",
+"搜索副标题":"<span>&&</span>",
+"分类":"国产&美剧",
+"分类值":"国产&美剧",
+"嗅探词": ".m3u8?pid=#hls.syrme.top/v1/#https://cn-beijing-data.aliyundrive.net#.m3u8#.mp4#admin.syrme.top#stariverpan#.m4a#data.aliyundrive.net",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+ //"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36#Origin$https://jiohub.top#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
+//"免嗅":"0",
+"分类url":"https://pan.syrme.top/v1/api/video/jojo/type/tag?type={cateId}&page={catePg}&size=24;post;",
+"筛选":{
+"电影":[
+{
+"key":"class",
+"name":"类型",
+"value":[
+{"n":"全部","v":"?"},
+{"n":"喜剧","v":"/喜剧?"},
+{"n":"爱情","v":"/爱情?"},
+{"n":"恐怖","v":"/恐怖?"},
+{"n":"动作","v":"/动作?"},
+{"n":"科幻","v":"/科幻?"},
+{"n":"犯罪","v":"/犯罪?"},
+{"n":"动画","v":"/动画?"},
+{"n":"剧情","v":"/剧情?"}
+]
+}
+],
+"2":[
+{
+"key":"cateId",
+"name":"类型",
+"value":[
+{"n":"全部","v":"2"},
+{"n":"大陆","v":"20"},
+{"n":"TVB","v":"21"},
+{"n":"韩剧","v":"22"},
+{"n":"美剧","v":"23"}
+]
+}
+]
+}
+}
