@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://static.188766.xyz/e.xml"
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="咪咕 央视频道",更新日期: 2026-4-12 06:13:09
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="咪咕 央视频道",更新日期: 2026-4-13 09:08:14
 http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="咪咕 央视频道",CCTV1综合
 http://play.kankanlive.com/live/1698234869325962.m3u8
@@ -73,18 +73,10 @@ http://live.ynurl.com/video/s10059-SPTV/index.m3u8
 http://live.ynurl.com/video/s10019-mzdst/index.m3u8
 #EXTINF:-1 tvg-id="昌宁县电视台" tvg-name="昌宁县电视台" tvg-logo="" group-title="咪咕 云南地区",昌宁县电视台
 http://live.ynurl.com/video/s10047-cntv/index.m3u8
-#EXTINF:-1 tvg-id="津南电视台" tvg-name="津南电视台" tvg-logo="" group-title="咪咕 天津地区",津南电视台
-http://play.jinnantv.top/live/JNTV1.m3u8
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="" group-title="咪咕 广东地区",广东影视
 https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" tvg-logo="" group-title="咪咕 江苏地区",南京文旅纪录
-http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 #EXTINF:-1 tvg-id="南京十八生活" tvg-name="南京十八生活" tvg-logo="" group-title="咪咕 江苏地区",南京十八生活
 http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
-#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="" group-title="咪咕 江苏地区",南京少儿
-http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-#EXTINF:-1 tvg-id="宜兴新闻综合" tvg-name="宜兴新闻综合" tvg-logo="" group-title="咪咕 江苏地区",宜兴新闻综合
-http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 #EXTINF:-1 tvg-id="济源综合" tvg-name="济源综合" tvg-logo="" group-title="咪咕 河南地区",济源综合
 http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 #EXTINF:-1 tvg-id="济源综合" tvg-name="济源综合" tvg-logo="" group-title="咪咕 河南地区",济源综合
